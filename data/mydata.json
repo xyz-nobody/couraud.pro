@@ -1,0 +1,68 @@
+{
+  "source": {
+    "path": "/home/amnesia/mydata.img",
+    "size_bytes": 56320000,
+    "sha256": "db7dadd5c4e88d39fa43045974a8a7f5ba10304b476fd71a9f038289b3f3c969",
+    "parts": 9
+  },
+  "split": {
+    "date_utc": "2025-10-16T10:37:20Z",
+    "output_dir": "/home/amnesia/cdnhub-hosting/couraud.pro/data"
+  },
+  "parts": [
+    {
+      "index": 1,
+      "filename": "2145ddb6639075f9466ea7d87847680c1692f350.bin",
+      "size_bytes": 6257778,
+      "sha256": "1993611bfe89be2cefa026fc1532e2dff463f701b63f6e30af0e5f1cef0229e1"
+    },
+    {
+      "index": 2,
+      "filename": "adb331abec0ae75d3f83c0764e1000cdd6a36ce3.bin",
+      "size_bytes": 6257778,
+      "sha256": "d05f6dc86a0e9c4575f66f1ec4f2fba1f336b51fcc8e44d45c6241cdf465420f"
+    },
+    {
+      "index": 3,
+      "filename": "ad9932dabf95ce2e250cfeef6e577b26b5641abd.bin",
+      "size_bytes": 6257778,
+      "sha256": "58c36de3b18b4801eec75f23519cbdff91b6142d833546d6139120dbc50dee19"
+    },
+    {
+      "index": 4,
+      "filename": "dde7a407ab39280831cf16e83919a08eb216e43c.bin",
+      "size_bytes": 6257778,
+      "sha256": "40e6b80d5e34bc9ee0e5a2a327bd07ace42d95f9a85312b2d23e378cf333d47b"
+    },
+    {
+      "index": 5,
+      "filename": "2d6241ee60be1a4c67389bbd2e475d35bb58e792.bin",
+      "size_bytes": 6257778,
+      "sha256": "711caca07ca94e218773451b1d887c1f22568b18d9c62c08c2d15f276bbcf67b"
+    },
+    {
+      "index": 6,
+      "filename": "2a32dff0f49540296ae1a5a8e9b8811c22286fd4.bin",
+      "size_bytes": 6257778,
+      "sha256": "19a8b312e83dc2ebdc709dbf1e80b0cf1601532c2351f1d6e02ceda7bf5d696a"
+    },
+    {
+      "index": 7,
+      "filename": "b7b903c2bf69cbf77937f2d226944390d88f5d9d.bin",
+      "size_bytes": 6257778,
+      "sha256": "cdf7b97806e9fa0dd50a986f1856ac796af53217b7d5f70d81c4e847d49d62d0"
+    },
+    {
+      "index": 8,
+      "filename": "ebc99f30457623b5662f9ad2af0fc5804b2a0e32.bin",
+      "size_bytes": 6257777,
+      "sha256": "d48c07dd9801eb1194d1cf516329b7dc418a6f9d270477f656ffeb422ea57738"
+    },
+    {
+      "index": 9,
+      "filename": "79a4428d8eda32a917b469d0315d9fd28e906cd8.bin",
+      "size_bytes": 6257777,
+      "sha256": "f0936e73547afa68734e1609ba1a974e2038c32fcf9ad1314d9cda7f372cc7e7"
+    }
+  ]
+}
